@@ -1,6 +1,4 @@
-#edenmy
 
-#Eden Ohayon 206097750
 
 #EX3 - HTTP Server
 
